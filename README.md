@@ -1,5 +1,4 @@
-# Bootcamp-Machine-Learning-Analyst
-Bootcamp - Analista de Machine Learning (by IGTI) / Machine Learning Analyst
+# Bootcamp - Machine Learning Analyst / Analista de Machine Learning (by IGTI)
 
 [![](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/logo.png)](https://www.linkedin.com/in/masedos/)
 
