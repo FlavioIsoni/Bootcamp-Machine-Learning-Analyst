@@ -1,6 +1,4 @@
-# Bootcamp - Machine Learning Analyst / Analista de Machine Learning (by IGTI)
-
-[![](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/logo.png)](https://www.linkedin.com/in/flavioisoni/)
+[![](https://github.com/FlavioIsoni/Bootcamp-Machine-Learning-Analyst/blob/main/Logo_ML.png)](https://www.linkedin.com/in/flavioisoni/)
 
 [![](https://img.shields.io/badge/made%20by-masedos-blue)](https://www.linkedin.com/in/flavioisoni/)
 ![GitHub repo size](https://img.shields.io/badge/-machine%20learning-orange)
