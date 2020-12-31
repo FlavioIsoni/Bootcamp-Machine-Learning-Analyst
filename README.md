@@ -1,4 +1,4 @@
-[![](https://github.com/FlavioIsoni/Bootcamp-Machine-Learning-Analyst/blob/main/Logo_ML.png)](https://www.linkedin.com/in/flavioisoni/)
+[![](https://github.com/FlavioIsoni/Bootcamp-Machine-Learning-Analyst/blob/main/Logo_MLA.png)](https://www.linkedin.com/in/flavioisoni/)
 
 
 `Certificado:` [Acesse aqui](https://github.com/FlavioIsoni/Bootcamp-Machine-Learning-Analyst/blob/main/Flavio%20Isoni%20-%20Certificate%20-%20Machine%20Learning%20Analyst.pdf)
