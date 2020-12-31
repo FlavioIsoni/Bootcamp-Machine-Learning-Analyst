@@ -8,7 +8,7 @@
 bootcamp: [https://www.igti.com.br/custom/bootcamp-analista-de-machine-learning/](https://www.igti.com.br/custom/bootcamp-analista-de-machine-learning/)
 </br></br>
 
-Este bootcamp da [IGTI](https://www.igti.com.br/) teve como objetivo estudar a teoria por trás do Machine Learning e praticar através dos desafios semanais, evolutivos em complexidade e abrangência, para aplicações em situações do mundo real.</br>
+Este bootcamp da [IGTI](https://www.igti.com.br/) teve como objetivo estudar a teoria relacionada com o Machine Learning e praticar através de desafios semanais evolutivos em complexidade e abrangência, para serem aplicados em situações do mundo real.</br>
 
 ## Conteúdo do bootcamp
 
