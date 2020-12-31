@@ -6,7 +6,7 @@ Bootcamp - Analista de Machine Learning (by IGTI) / Machine Learning Analyst
 [![](https://img.shields.io/badge/made%20by-masedos-blue)](https://www.linkedin.com/in/masedos/)
 ![GitHub repo size](https://img.shields.io/badge/-machine%20learning-orange)
 
-`Certificado:` [Acesse aqui](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/Fernandes%20Macedo%20RibeiroBootcamp%20Analista%20de%20Machine%20Learning.pdf)
+`Certificado:` [Acesse aqui](https://github.com/FlavioIsoni/Bootcamp-Machine-Learning-Analyst/blob/main/Flavio%20Isoni%20-%20Certificate%20-%20Machine%20Learning%20Analyst.pdf)
 </br></br>
 `Duração:` 2 meses, 148 horas
 </br></br>
