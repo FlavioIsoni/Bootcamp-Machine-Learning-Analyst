@@ -26,4 +26,4 @@ Nos links abaixo de cada módulo disponibilizo materiais de trabalhos práticos 
 
 ## Bootcamp trail Trilha do bootcamp
 
-[![](https://github.com/masedos/Bootcamp-Analista-de-Machine-Learning/blob/master/Trilha%20Machine%20Learning.png)](https://www.linkedin.com/in/masedos/)
+[![](https://github.com/FlavioIsoni/Bootcamp-Machine-Learning-Analyst/blob/main/Trilha%20-%20BootCamp%20Analista%20de%20Machine%20Learning.jpg)](https://www.linkedin.com/in/FlavioIsoni/)
